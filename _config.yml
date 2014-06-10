@@ -2,7 +2,6 @@ baseurl: /edb-test
 permalink: pretty
 markdown: rdiscount
 prose:
-  rooturl: '.'
   siteurl: 'http://prose.io/#mklarmann/edb-test/'
   ignore:
     - _prose.yml

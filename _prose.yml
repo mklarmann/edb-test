@@ -1,1 +1,9 @@
 prose:
+  ignore:
+    - _prose.yml
+  metadata:
+    _edb:
+      - name: "foo"
+	    field:
+		  element: "hidden"
+		  value: "bar"

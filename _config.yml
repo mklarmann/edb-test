@@ -4,7 +4,7 @@ markdown: rdiscount
 prose:
   siteurl: 'http://prose.io/#mklarmann/edb-test/'
   ignore:
-    - _prose.yml
+    # - _prose.yml
   metadata:
     _edb:
       - name: "foo"

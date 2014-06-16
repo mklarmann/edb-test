@@ -1,5 +1,19 @@
 ---
-foo: "bar"
+"0": "[object Object]"
+foo: bar
+published: true
 ---
-Hallo Eaternity!
-Zweite Aenderung.
+
+{
+  schema: {
+    name: {
+      type: 'string',
+      title: 'Name',
+      required: true
+    },
+    age: {
+      type: 'number',
+      title: 'Age'
+    }
+  }
+}

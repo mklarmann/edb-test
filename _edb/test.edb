@@ -27,10 +27,10 @@ published: true
   
   "onSubmit": "function(errors, values) {
     if (errors) {
-      alert(\"Error: \" + errors);
+      alert();
     }
     else {
-      alert(\"Success: \" + values);
+      alert();
     }
   }"
 }

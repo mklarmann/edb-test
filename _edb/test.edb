@@ -21,10 +21,10 @@ published: true
   },
   "onSubmit": function(errors, values) {
     if (errors) {
-      alert("Error: " + errors);
+      alert(\"Error: \" + errors);
     }
     else {
-      alert("Success: " + values);
+      alert(\"Success: \" + values);
     }
   }
 }

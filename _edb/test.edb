@@ -23,5 +23,7 @@ published: true
   "value": {
     "name": "Nick Drake",
     "age": 28
-  }
+  },
+  
+  "onSubmitValid": "alert(\\"Message from EDB!\\");"
 }

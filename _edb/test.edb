@@ -22,7 +22,7 @@ published: true
   
   "value": {
     "name": "Nick Drake",
-    "age: 28
+    "age": 28
   },
   
   "onSubmit": "function(errors, values) {

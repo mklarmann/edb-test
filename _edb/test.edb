@@ -19,6 +19,12 @@ published: true
       "title": "Age"
     }
   },
+  
+  "value": {
+    "name": "Nick Drake",
+    "age: "28"
+  },
+  
   "onSubmit": "function(errors, values) {
     if (errors) {
       alert(\"Error: \" + errors);

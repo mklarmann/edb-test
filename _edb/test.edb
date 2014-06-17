@@ -18,5 +18,13 @@ published: true
       "type": "number",
       "title": "Age"
     }
+  },
+  onSubmit: function(errors, values) {
+    if (errors) {
+      alert("Error: " + errors);
+    }
+    else {
+      alert("Success: " + values);
+    }
   }
 }

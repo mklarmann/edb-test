@@ -25,5 +25,5 @@ published: true
     "age": 28
   },
   
-  "onSubmitValid": "alert(\\"Message from EDB!\\");"
+  "onSubmitValid": "bla"
 }

@@ -19,6 +19,12 @@ published: true
       "title": "Age"
     }
   },
-  "onSubmit": "function(errors, values) {\r\n
+  "onSubmit": "function(errors, values) {
+    if (errors) {
+      alert(\"Error: \" + errors);
+    }
+    else {
+      alert(\"Success: \" + values);
+    }
   }"
 }

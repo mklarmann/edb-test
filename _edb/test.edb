@@ -19,5 +19,5 @@ published: true
       "title": "Age"
     }
   },
-  "onSubmit": "function"
+  "onSubmit": "function(errors, values)"
 }

@@ -5,8 +5,6 @@ published: true
 ---
 
 {
-  "value": {
-    "name": "Nick Drake",
-    "age": 28
-  }
+  "name": "Nick Drake",
+  "age": 28
 }

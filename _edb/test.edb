@@ -25,5 +25,5 @@ published: true
     "age": 28
   },
   
-  "onSubmit": ""
+  "onSubmitValid": ""
 }

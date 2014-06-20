@@ -6,14 +6,11 @@ published: true
 
 {
   "name_de": "Kuerbis",
-  "specification": "",
-  "synonyms": "",
   "name_en": "Pumpkin",
-  "name_fr": "",
-  "kg_co2_eq_per_kg": "0.0514",
+  "kg_co2_eq_per_kg": 0.0514,
   "id": "113",
   "tags": "vegetable,legumes",
-  "isCombinedProduct": false,
-  "background_info": "",
-  "co2_calculation": "directly from study IP production cultivation 35.8gCO2eq/kg + carbon footprint to point of sale large from..."
+  "production": "konventionell",
+  "co2_calculation": "directly from study IP production cultivation 35.8gCO2eq/kg + carbon footprint to point of sale large from...",
+  "isCombinedProduct": false
 }

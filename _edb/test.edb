@@ -4,4 +4,7 @@ foo: bar
 published: true
 ---
 
-{"name":"Nick Jake","age":31}
+{
+  "name": "Nick Jake",
+  "age": 34
+}

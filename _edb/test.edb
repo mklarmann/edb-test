@@ -5,6 +5,12 @@ published: true
 ---
 
 {
-  "name": "Nick Drake",
-  "age": 21
+  "name_de": "Kuerbis",
+  "specification": "",
+  "synonyms": "",
+  "name_en": "Pumpkin",
+  "name_fr": "",
+  "kg_co2_eq_per_kg": "0.0514",
+  "id": "113",
+  "tags": "vegetable,legumes"
 }

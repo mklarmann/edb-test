@@ -1,5 +1,5 @@
 ---
-"0": "[object Object]"
+"0": ""
 published: false
 ---
 

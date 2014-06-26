@@ -1,4 +1,16 @@
 ---
-foo: "bar"
+"0": "[object Object]"
+foo: bar
+published: true
 ---
-'{ "schema": { "name": { "type": "string", "title": "Name", "required": true }, "age": { "type": "number", "title": "Age } } }'
+
+{
+  "name_de": "Kuerbis 4",
+  "name_en": "Pumpkin",
+  "kg_co2_eq_per_kg": 0.0514,
+  "id": "113",
+  "tags": "vegetable,legumes",
+  "isCombinedProduct": true,
+  "production": "konventionell",
+  "co2_calculation": "directly from study IP production cultivation 35.8gCO2eq/kg + carbon footprint to point of sale large from..."
+}

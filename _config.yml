@@ -14,9 +14,3 @@ prose:
 		  label: "My Foo"
 		  placeholder: "My Foo placeholder"
 		  type: "text"
-	  - name: "bar"
-	    field:
-		  element: "textarea"
-		  value: "Bar value"
-		  label: "My Bar"
-		  placeholder: "My Bar placeholder"

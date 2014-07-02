@@ -9,7 +9,7 @@ prose:
   metadata:
     _posts:
       - name: "foo"
-	    field:
-		  element: "text"
-		  label: "My Foo"
-		  value: "Foo value"
+        field:
+          element: "text"
+          label: "My Foo"
+          value: "Foo value"

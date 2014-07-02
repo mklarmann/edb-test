@@ -6,7 +6,7 @@ prose:
   ignore:
     # - _prose.yml
   metadata:
-    _edb:
+    _posts:
       - name: "foo"
 	    field:
 		  element: "text"

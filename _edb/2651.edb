@@ -1,5 +1,6 @@
 ---
 foo: "Nothing"
+bar: "Another thing"
 ---
 {
   "@MODID": "75",

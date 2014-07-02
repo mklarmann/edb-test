@@ -9,5 +9,6 @@ prose:
     _edb:
       - name: "foo"
 	    field:
-		  element: "hidden"
-		  value: "bar"
+		  element: "text"
+		  value: "Foo value"
+		  label: "My Foo"

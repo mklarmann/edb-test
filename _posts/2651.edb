@@ -1,6 +1,6 @@
 ---
-foo: Nothing
-bar: Another thing
+foo: "Nothing"
+bar: "Another thing"
 ---
 {
   "@MODID": "75",

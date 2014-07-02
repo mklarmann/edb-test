@@ -10,7 +10,5 @@ prose:
       - name: "foo"
 	    field:
 		  element: "text"
-		  value: "Foo value"
 		  label: "My Foo"
-		  placeholder: "My Foo placeholder"
-		  type: "text"
+		  value: "Foo value"

@@ -2,6 +2,7 @@
 foo: "Nothing"
 bar: "Another thing"
 ---
+
 {
   "@MODID": "75",
   "@RECORDID": "2651",

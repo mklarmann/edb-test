@@ -8,7 +8,7 @@ prose:
     # - _prose.yml
   metadata:
     _posts:
-      - name: "@MODID"
+      - name: "MODID"
         field:
           element: "text"
-          label: "@MOID"
+          label: "MOID"

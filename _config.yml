@@ -46,11 +46,11 @@ prose:
           label: "Autor" 
       - name: "Backgroundinfo"
         field:
-          element: "textarea" 
+          element: "text" 
           label: "Backgroundinfo"
       - name: "Beschreibung"
         field:
-          element: "textarea"
+          element: "text"
           label: "Beschreibung" 
       - name: "CO2_Berechnung"
         field:

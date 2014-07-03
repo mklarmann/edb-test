@@ -1,6 +1,6 @@
 ---
-  @MODID: "75"
-  @RECORDID: "2651"
+  MODID: "75"
+  RECORDID: "2651"
   ID: "2"
   Name_Deutsch: "Rapsöl"
   Std_Herkunft: "Schweiz"
@@ -12,7 +12,6 @@
   Beschreibung: "Autor/Datum/Kommentartyp \n\n\nCO2-Berechnung\n\n\nTeilprozessdokumentation\n\n\nDatenverknüpfung \n\n\nInteresting Facts\n\n\nProduktionssystem\n\n\nQuellenangaben\n\n\nIso-standard\n\n\nKommentar\n\nKeine Quelle vorhanden. Quellenangabe muss dringend gesucht werden. Davor als äusserst grobe Schätzung behandeln.\n\n"
   CO2_Berechnung: "Wert aus Quelle ist 1.56 kg CO2Äq / kg, 200 km transport still included\n"
   CO2_log: null
-  Datenqualität: null
 ---
 
 {

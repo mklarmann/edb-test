@@ -8,8 +8,42 @@ prose:
     # - _prose.yml
   metadata:
     _posts:
-      - name: "foo"
+      - name: "@MODID"
         field:
           element: "text"
-          label: "My Foo"
-          value: "Foo value"
+      - name: "@RECORDID"
+        field:
+          element: "text"      
+      - name: "ID"
+        field:
+          element: "text"
+      - name: "Name_Deutsch"
+        field:
+          element: "text" 
+      - name: "Std_Herkunft"
+        field:
+          element: "text" 
+      - name: "kg_CO2"
+        field:
+          element: "text" 
+      - name: "Alternativen"
+        field:
+          element: "text" 
+      - name: "Auswahl_sortieren"
+        field:
+          element: "text" 
+      - name: "Autor"
+        field:
+          element: "text" 
+      - name: "Backgroundinfo"
+        field:
+          element: "text" 
+      - name: "Beschreibung"
+        field:
+          element: "textarea" 
+      - name: "CO2_Berechnung"
+        field:
+          element: "text" 
+      - name: "CO2_log"
+        field:
+          element: "text" 

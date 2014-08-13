@@ -3,7 +3,8 @@ published: false
 ---
 
 {
-  "gender": "male",
+  "gender": "alien",
+  "Name_Deutsch": "Gewürze",
   "RECORDID": "3259",
   "kg_CO2": "0.3",
   "ID": "-1",

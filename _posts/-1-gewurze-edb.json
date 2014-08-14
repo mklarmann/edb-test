@@ -3,6 +3,11 @@ published: false
 ---
 
 {
+  "idlinks": [
+    "2",
+    "4",
+    "6"
+  ],
   "pizzamultiselect": "bububblblb",
   "Name_Deutsch": "Gewürze",
   "RECORDID": "3259",

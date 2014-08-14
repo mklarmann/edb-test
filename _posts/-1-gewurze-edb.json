@@ -3,16 +3,15 @@ published: false
 ---
 
 {
-  "idlinks": [
-    "2",
-    "4",
-    "6"
-  ],
-  "pizzamultiselect": "bububblblb",
   "Name_Deutsch": "Gewürze",
   "RECORDID": "3259",
   "kg_CO2": "0.3",
   "ID": "-1",
+  "linkedids": [
+    "2",
+    "5",
+    "8"
+  ],
   "Konsistenz": "pulvrig",
   "Std_Herkunft": "Schweiz",
   "Herkuenfte": "Schweiz,Spanien,Frankreich",

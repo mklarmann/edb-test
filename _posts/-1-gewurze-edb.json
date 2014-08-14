@@ -7,10 +7,12 @@ published: false
   "RECORDID": "3259",
   "kg_CO2": "0.3",
   "ID": "-1",
-  "linkedids": [
+  "verlinkungen": [
     "2",
+    "3",
+    "4",
     "5",
-    "8"
+    "6"
   ],
   "Konsistenz": "pulvrig",
   "Std_Herkunft": "Schweiz",
